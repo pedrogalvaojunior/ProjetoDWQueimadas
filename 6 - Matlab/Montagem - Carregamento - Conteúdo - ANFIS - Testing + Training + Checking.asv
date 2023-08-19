@@ -1,0 +1,25 @@
+%Limpando a Command Window
+clc
+
+%Limpando o Workspace
+clear
+
+% Import the file Testing
+Testing = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-Testing.txt');
+
+% Import the file CheckinGroup
+CheckingGroup1 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-CheckingGroup1.txt');
+CheckingGroup2 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-CheckingGroup2.txt');
+CheckingGroup3 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-CheckingGroup3.txt');
+CheckingGroup4 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-CheckingGroup4.txt');
+CheckingGroup5 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-CheckingGroup5.txt');
+
+% Import the file TrainingGroup
+TrainingGroup2345 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-TrainingGroup2345.txt');
+TrainingGroup1345 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-TrainingGroup1345.txt');
+TrainingGroup1245 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-TrainingGroup1245.txt');
+TrainingGroup1235 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-TrainingGroup1235.txt');
+TrainingGroup1234 = importdata('S:\Mestrado\Defesa\Dados\Modelos\Modelo1-Conteudo-ANFIS-ValidacaoCruzada-TrainingGroup1234.txt');
+
+%Carregando do AnfisEdit
+anfisedit
