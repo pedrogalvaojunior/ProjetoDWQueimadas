@@ -6,4 +6,4 @@ Este projeto envolve desde arquitetura para armazenamento, tratamento e manipula
 
 Por fim, a adoção do ambiente computacional matemático MATLab combinado com a linguagem R, para criação de uma máquina de aprendizado capaz de predizer a ocorrência de novos focos de queimadas para um período entre 1 até 3 dias.
 
-As fontes de dados aqui compartilhadas estão limitadas aos anos de 1999, 2000 e 2021, por questões do tamanho dos arquivos, caso você tenha interesse em obter os demais anos, entre em contato.
+As fontes de dados aqui compartilhadas estão limitadas aos anos de 1999, 2000 e 2021, por questões do tamanho dos arquivos, caso você tenha interesse em obter os demais anos, entre em contato através do e-mail: pedrogalvaojunior@gmail.com ou blog: https://pedrogalvaojunior.com.br
