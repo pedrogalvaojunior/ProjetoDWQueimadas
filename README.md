@@ -1,9 +1,80 @@
-# ProjetoDWQueimadas
+# 🔥 ProjetoDWQueimadas
+**Data Warehouse e Mineração de Dados sobre Queimadas no Brasil**
 
-O Projeto Data Warehouse, consiste em um ambiente de estudos de mineração de dados relacionado a todas as ocorrências ou focos de queimadas registradas no Brasil desde 1999 pelo INPE.
+Este projeto é um ambiente completo de estudos sobre **ocorrências de queimadas no Brasil**, iniciado em **2017** e **atualizado anualmente**. Ele integra dados públicos do **INPE**, **INMET** e **ANA**, aplicando técnicas avançadas de **mineração de dados**, **modelagem híbrida**, **inteligência artificial** e **análise preditiva**.
 
-Este projeto envolve desde arquitetura para armazenamento, tratamento e manipulação de dados baseados em um ambiente relacional, como também, a implementação de cenários de aplicação de algoritmos de mineração de dados, como por exemplo: Redes Neurais, combinados com arquiteturas e ambientes para uso de lógica fuzzy, algoritmos como ANFIS para se utilizar redes adaptativas baseadas na lógica fuzzy.
+---
 
-Por fim, a adoção do ambiente computacional matemático MATLab combinado com a linguagem R, para criação de uma máquina de aprendizado capaz de predizer a ocorrência de novos focos de queimadas para um período entre 1 até 3 dias.
+## 📘 Referências Acadêmicas
 
-As fontes de dados aqui compartilhadas estão limitadas aos anos de 1999, 2000 e 2021, por questões do tamanho dos arquivos, caso você tenha interesse em obter os demais anos, entre em contato através do e-mail: pedrogalvaojunior@gmail.com ou blog: https//pedrogalvaojunior.com.br
+Este projeto está diretamente relacionado à pesquisa desenvolvida por Pedro Antonio Galvão Junior:
+
+- 🎓 **Dissertação de Mestrado**:  
+  *Modelos híbridos aplicados à construção de índice de classificação de níveis de risco de queimadas no Brasil*  
+  [Acesse aqui](https://repositorio.unesp.br/entities/publication/21b527ec-a95c-4df8-8cdc-69f1c77435a0)
+
+- 📰 **Artigo Científico**:  
+  *Índice de risco de queimadas baseado em modelos híbridos neuro-fuzzy*  
+  [Leia o artigo completo](https://www.rbciamb.com.br/Publicacoes_RBCIAMB/article/view/1286/12)
+
+---
+
+## 🧠 Resumo do Projeto
+
+O ProjetoDWQueimadas é uma iniciativa de integração e análise de dados ambientais com foco na predição de queimadas. Utiliza algoritmos de aprendizado de máquina e lógica fuzzy para gerar um **índice de risco de queimadas**, com capacidade de previsão de até **3 dias**.
+
+---
+
+## 🎯 Objetivos
+
+- Consolidar dados históricos de queimadas, clima e precipitação.
+- Criar um ambiente relacional para armazenamento e manipulação dos dados.
+- Aplicar algoritmos de mineração de dados para análise preditiva.
+- Desenvolver modelos híbridos (Redes Neurais + Lógica Fuzzy).
+- Gerar um índice de risco útil para órgãos ambientais e pesquisadores.
+
+---
+
+## 🧪 Metodologia
+
+- **Aquisição de dados**: INPE (queimadas), INMET (clima), ANA (chuvas).
+- **Tratamento e normalização**: SQL Server + R.
+- **Modelagem preditiva**: MATLAB + ANFIS (Adaptive Neuro-Fuzzy Inference System).
+- **Validação**: Erros absolutos inferiores a 3% na predição de risco.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **SQL Server** — Ambiente relacional para armazenamento e manipulação.
+- **MATLAB** — Modelagem matemática e aplicação de ANFIS.
+- **R** — Tratamento estatístico e visualização de dados.
+- **Excel** — Organização e exportação de dados.
+
+---
+
+## 📂 Fontes de Dados Compartilhadas
+
+Por questões de tamanho, os arquivos disponíveis no repositório incluem os anos:
+
+- 1999  
+- 2000  
+- 2021  
+
+Para acesso aos demais anos, entre em contato via [e-mail](mailto:pedrogalvaojunior@gmail.com) ou [blog pessoal](https://pedrogalvaojunior.com.br).
+
+---
+
+## 🌱 Importância do Tema
+
+As queimadas representam um dos maiores desafios ambientais no Brasil. Este projeto contribui com:
+
+- Ferramentas de apoio à **prevenção e monitoramento**.
+- Base científica para **políticas públicas ambientais**.
+- Estímulo à **pesquisa interdisciplinar** entre tecnologia e meio ambiente.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
