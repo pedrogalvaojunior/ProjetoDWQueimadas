@@ -1,6 +1,6 @@
 # 🔥 ProjetoDWQueimadas
 **Data Warehouse e Mineração de Dados sobre Queimadas no Brasil**
-![Badge](https://img.shields.io/badge/SQL%20Server-Project-blue) ![Badge](https://img.shields.io/badge/Version-2017&2026-green) ![Badge](https://img.shields.io/badge/Status-Stable-success)
+![Badge](https://img.shields.io/badge/SQL%20Server-Project-blue) ![Badge](https://img.shields.io/badge/Version-2017+2025-green) ![Badge](https://img.shields.io/badge/Status-Stable-success)
 
 Este projeto é um ambiente completo de estudos sobre **ocorrências de queimadas no Brasil**, iniciado em **2017** e **atualizado anualmente**. Ele integra dados públicos do **INPE**, **INMET** e **ANA**, aplicando técnicas avançadas de **mineração de dados**, **modelagem híbrida**, **inteligência artificial** e **análise preditiva**.
 
