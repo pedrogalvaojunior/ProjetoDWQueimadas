@@ -79,3 +79,7 @@ As queimadas representam um dos maiores desafios ambientais no Brasil. Este proj
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+👨‍💻 Autor
+Pedro Antonio Galvão Galvão Júnior - MVP Junior Galvão
+Projeto iniciado em Agosto/2017, sendo atualizado anualmente.
