@@ -82,4 +82,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 👨‍💻 Autor
 **Pedro Antonio Galvão Galvão Junior - Junior Galvão MVP.**
+
 Projeto iniciado em Agosto/2017, sendo atualizado anualmente.
